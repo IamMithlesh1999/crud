@@ -35,4 +35,4 @@ public class SubjectService {
 		subjectRepo.deleteById(id);
 		}
 	}
-
+j
